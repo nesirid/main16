@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Practice.exe
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Practice.deps.json
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Practice.runtimeconfig.json
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Practice.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Practice.pdb
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.AssemblyInfo.cs
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\refint\Exception.Practice.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.pdb
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Practice.genruntimeconfig.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\ref\Exception.Practice.dll

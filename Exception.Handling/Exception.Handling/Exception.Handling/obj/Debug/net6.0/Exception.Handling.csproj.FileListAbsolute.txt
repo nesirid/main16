@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Handling.exe
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Handling.deps.json
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Handling.runtimeconfig.json
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Handling.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\bin\Debug\net6.0\Exception.Handling.pdb
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.AssemblyInfo.cs
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\refint\Exception.Handling.dll
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.pdb
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\Exception.Handling.genruntimeconfig.cache
+C:\Users\user\Desktop\For Programing Education\Exception_handling\Exception.Handling\Exception.Handling\Exception.Handling\obj\Debug\net6.0\ref\Exception.Handling.dll
